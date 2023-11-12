@@ -105,6 +105,10 @@ enableEmoji = true
       icon      = "arxiv" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "http://arxiv.org/a/bayer_d_1"
+  [[params.social]]
+      icon      = "cv" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "Bayer_Damon_CV.pdf"
   # [[params.social]]
       # icon      = "rss" # icon name without the 'fa-'
       # icon_pack = "fas"
