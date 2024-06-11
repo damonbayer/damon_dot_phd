@@ -1,1 +1,1 @@
-Sitemap: https://damonbayer.github.io/damon_dot_phd/sitemap.xml
+Sitemap: https://damon.phd/sitemap.xml
