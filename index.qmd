@@ -1,6 +1,6 @@
 ---
 title: "Damon Bayer, PhD"
-image: img/damon_memoji_wave.png
+image: img/0018-Damon-Bayer-2048.png
 about:
   template: trestles
   links:

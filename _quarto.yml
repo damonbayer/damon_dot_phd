@@ -5,7 +5,7 @@ website:
   favicon: "img/memoji_favicon.ico"
   title: "Damon Bayer"
   navbar:
-    logo: "img/0018-Damon-Bayer-2048.png"
+    logo: "img/damon_memoji_macbook.png"
     # title: false
     right:
       - href: blog.qmd
