@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://damon.phd/blog.html</loc>
-    <lastmod>2025-05-16T21:11:35.147Z</lastmod>
+    <lastmod>2025-09-07T16:00:52.732Z</lastmod>
   </url>
   <url>
-    <loc>https://damon.phd/posts/welcome/index.html</loc>
-    <lastmod>2025-05-16T21:11:35.148Z</lastmod>
-  </url>
-  <url>
-    <loc>https://damon.phd/posts/post-with-code/index.html</loc>
+    <loc>https://damon.phd/blog/post-with-code/index.html</loc>
     <lastmod>2025-05-16T21:11:35.147Z</lastmod>
   </url>
   <url>
     <loc>https://damon.phd/index.html</loc>
     <lastmod>2025-09-06T05:03:43.689Z</lastmod>
+  </url>
+  <url>
+    <loc>https://damon.phd/blog/welcome/index.html</loc>
+    <lastmod>2025-05-16T21:11:35.148Z</lastmod>
   </url>
 </urlset>
