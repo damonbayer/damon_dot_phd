@@ -4,12 +4,15 @@ project:
 website:
   favicon: "img/memoji_favicon.ico"
   title: "Damon Bayer"
+  site-url: "https://damon.phd"
   navbar:
     logo: "img/damon_memoji_macbook.png"
     # title: false
     right:
       - href: blog.qmd
         text: Blog
+      - icon: rss
+        href: blog.xml
   search:
     type: textbox
 
