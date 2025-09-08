@@ -7,24 +7,24 @@
     "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 8, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 5, 2024\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/post-with-code/index.html",
-    "href": "blog/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "blog/welcome/index.html",
+    "href": "blog/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Damon Bayer, PhD",
     "section": "",
-    "text": "Hello!\nI am a statistician and infectious disease researcher based in Saint Paul, MN. I currently work as a data scientist within the CDC’s Center for Forecasting and Outbreak Analytics. There, I am responsible for developing open-source software for forecasting disease outbreaks.\nPrior to joining the CDC, I obtained a PhD in statistics at UC Irvine, where I was advised by Volodymyr Minin. My dissertation focused on inference and forecasting using infectious disease surveillance data. Before beginning graduate school in California, I completed my undergraduate and master’s education in mathematics and statistics at South Dakota State University.\nOutside of work, I spend my time playing board games, watching movies, and volunteering with Streets.mn.\nMy portrait was created by a wonderful artist at The Iconfactory."
+    "text": "Hello!\nI am a statistician and infectious disease researcher based in Saint Paul, MN. I currently work as a data scientist within the CDC’s Center for Forecasting and Outbreak Analytics. There, I am responsible for developing open-source software for forecasting disease outbreaks.\nPrior to joining the CDC, I obtained a PhD in statistics at UC Irvine, where I was advised by Volodymyr Minin. My dissertation focused on inference and forecasting using infectious disease surveillance data. Before beginning graduate school in California, I completed my undergraduate and master’s education in mathematics and statistics at South Dakota State University.\nOutside of work, I spend my time playing board games, watching movies, going to concerts, and volunteering with Streets.mn.\nMy portrait was created by a wonderful artist at The Iconfactory."
   },
   {
-    "objectID": "blog/welcome/index.html",
-    "href": "blog/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "blog/post-with-code/index.html",
+    "href": "blog/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is a post with executable code."
   }
 ]
